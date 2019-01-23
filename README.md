@@ -1,5 +1,5 @@
 # SpringCertification5.0
-My notes for preparing for Spring Professional Certification
+My notes for preparing for Spring Professional Certification.
 These sources were used to compile them:
 - Spring 5 Design Patterns
 - Spring in Action 4th edition
